@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
 <h3 align="center">A passionate developer from Swizerland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jan-schaefli-github" alt="jan-schaefli-github" /></a> </p>
-
 - 🌱 My favorite languages are **JavaScript and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jan-schaefli-github](https://github.com/jan-schaefli-github)
@@ -18,8 +16,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/janschaefli"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/janschaefli" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jan-schaefli-github&show_icons=true&locale=en&layout=compact" alt="jan-schaefli-github" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jan-schaefli-github&show_icons=true&locale=en" alt="jan-schaefli-github" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jan-schaefli-github&theme=dark" alt="jan-schaefli-github" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jan-schaefli-github&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="jan-schaefli-github" /></p>
