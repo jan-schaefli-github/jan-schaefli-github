@@ -7,7 +7,6 @@
 
 - ⚡ Fun fact **I need glasses because I don't C#**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
